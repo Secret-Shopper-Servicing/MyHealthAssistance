@@ -275,7 +275,7 @@ Partial Class Main
         Me.WebBrowser1.Name = "WebBrowser1"
         Me.WebBrowser1.Size = New System.Drawing.Size(343, 250)
         Me.WebBrowser1.TabIndex = 5
-        Me.WebBrowser1.Url = New System.Uri("http://duckduckgo.com/lite", System.UriKind.Absolute)
+        Me.WebBrowser1.Url = New System.Uri("http://secretshopperservicing.cf", System.UriKind.Absolute)
         '
         'TabPage4
         '
