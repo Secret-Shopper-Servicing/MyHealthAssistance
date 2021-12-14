@@ -8,8 +8,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{50475666-B588-47DA-A633-2B466DFA3117}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
-    <RootNamespace>WindowsApplication1</RootNamespace>
+    <StartupObject>MyHealthAssistance.My.MyApplication</StartupObject>
+    <RootNamespace>MyHealthAssistance</RootNamespace>
     <AssemblyName>MyHealthAssistance</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
